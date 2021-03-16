@@ -1,16 +1,31 @@
-### Hi there 👋
+## ```./mehmetemredogan```
 
-<!--
-**mehmetemredogan/mehmetemredogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(🤝) Hi! I'm Mehmet Emre from Kayseri/Turkey [📍](https://goo.gl/maps/n4XrvncDpSwbJvwA7). I came to our planet in June 1998. This is my playground. I usually develop experimental projects in the field of artificial intelligence. Nice to to meet you.
 
-Here are some ideas to get you started:
+### ```> 👨‍💻 I'm currently working on;```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [kyrpi AI](https://github.com/kyrpi)
+* [Experimental: Personal Blog](https://www.mehmetemredogan.com.tr)
+
+### ```> 🤓 I’m currently learning```
+
+* Devops: Podman and Kubernetes
+* Programming Language: Go and C++
+* Natural Language: English and German
+
+### ```> 🧰 The programming languages, technologies and other things I use;```
+
+Most of the time I do backend development. It would be a big mistake to ask me your CSS and JS questions.
+
+* Programming Language: C, C++, Go, PHP, JavaScript
+* Database: PostgreSQL, ScyllaDB, Redis
+* IDE: GoLand, CLion, PHPStorm, WebStorm
+
+```> 🔗 Links```
+
+* [Twitter](https://twitter.com/mehmetemredogan)
+* [Mail](mailto:med@mehmetemredogan.com.tr)
+
+### ```> ℹ️ Other Info```
+
+![Profile views](https://statsomed.herokuapp.com/api/github/profileViewCount "Stats Service: mehmetemredogan.com.tr")
