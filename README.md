@@ -25,7 +25,3 @@ Most of the time I do backend development. It would be a big mistake to ask me y
 
 * [Twitter](https://twitter.com/mehmetemredogan)
 * [Mail](mailto:med@mehmetemredogan.com.tr)
-
-### ```> ℹ️ Other Info```
-
-![Profile views](https://statsomed.herokuapp.com/api/github/profileViewCount?v=17032021 "Stats Service: mehmetemredogan.com.tr")
