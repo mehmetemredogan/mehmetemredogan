@@ -1,13 +1,13 @@
 ## ```./mehmetemredogan```
 
-(🤝) Hi! I'm Mehmet Emre from Kayseri/Turkey [📍](https://goo.gl/maps/n4XrvncDpSwbJvwA7). I came to our planet in June 1998. This is my playground. I usually develop experimental projects in the field of artificial intelligence. Nice to to meet you.
+(🤝) Hi! I'm Mehmet Emre from Kayseri/Turkey [📍](https://goo.gl/maps/n4XrvncDpSwbJvwA7). This is my playground. I usually develop experimental projects in the field of artificial intelligence.
 
 ### ```> 👨‍💻 I'm currently working on;```
 
 * [kyrpi AI](https://github.com/kyrpi)
 * [Experimental: Personal Blog](https://www.mehmetemredogan.com.tr)
 
-### ```> 🤓 I’m currently learning```
+### ```> 🤓 I’m currently learning;```
 
 * Devops: Podman and Kubernetes
 * Programming Language: Go and C++
@@ -21,7 +21,7 @@ Most of the time I do backend development. It would be a big mistake to ask me y
 * Database: PostgreSQL, ScyllaDB, Redis
 * IDE: GoLand, CLion, PHPStorm, WebStorm
 
-### ```> 🔗 Links```
+### ```> 🔗 Links;```
 
 * [Twitter](https://twitter.com/mehmetemredogan)
 * [Mail](mailto:med@mehmetemredogan.com.tr)
