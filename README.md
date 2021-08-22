@@ -1,6 +1,6 @@
 ## ```./mehmetemredogan```
 
-(🤝) Hi! I'm Mehmet Emre from Kayseri/Turkey [📍](https://goo.gl/maps/n4XrvncDpSwbJvwA7). This is my playground. I usually develop experimental projects in the field of artificial intelligence.
+(🤝) Hi! I'm Mehmet Emre from Kayseri/Turkey [📍](https://goo.gl/maps/MnsUSR8eWJQkHsZw7). I usually develop experimental projects in the field of artificial intelligence.
 
 ### ```> 👨‍💻 I'm currently working on;```
 
@@ -13,15 +13,24 @@
 * Programming Language: Go and C++
 * Natural Language: English and German
 
-### ```> 🧰 The programming languages, technologies and other things I use;```
+### ```> 🧰 Others;```
 
-Most of the time I do backend development. It would be a big mistake to ask me your CSS and JS questions.
+Most of the time I do backend development.
 
-* Programming Language: C, C++, Go, PHP, JavaScript
-* Database: PostgreSQL, ScyllaDB, Redis
-* IDE: GoLand, CLion, PHPStorm, WebStorm
+| Programming Language | Level  |
+|----------------------|--------|
+| C, C++               | Intern |
+| Golang               | Junior |
+| PHP                  | Middle |
+
+| DB         | Level  |
+|------------|--------|
+| PostgreSQL | Junior |
+| Redis      | Middle |
+| ScyllaDB   | Intern |
 
 ### ```> 🔗 Links;```
 
 * [Twitter](https://twitter.com/mehmetemredogan)
 * [Mail](mailto:med@mehmetemredogan.com.tr)
+* [LinkedIn](https://www.linkedin.com/in/drmed/)
