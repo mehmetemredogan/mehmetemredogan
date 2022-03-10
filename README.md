@@ -31,7 +31,6 @@ Most of the time I do backend development.
 |------------|--------|
 | ScyllaDB   | Intern |
 | PostgreSQL | Junior |
-| PostgreSQL | Junior |
 | Redis      | Middle |
 
 | Search Engine	| Level	 |
