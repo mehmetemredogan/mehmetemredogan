@@ -1,17 +1,20 @@
 ## ```./mehmetemredogan```
 
-(🤝) Hi! I'm Mehmet Emre from Kayseri/Turkey [📍](https://goo.gl/maps/MnsUSR8eWJQkHsZw7). I usually develop experimental projects in the field of artificial intelligence.
+(🤝) Hi! I'm Mehmet Emre from Kayseri/Turkey [📍](https://goo.gl/maps/MnsUSR8eWJQkHsZw7). I'm a backend developer.
+
+I develop AI (artificial neural networks and natural language processing) projects as a hobby.
 
 ### ```> 👨‍💻 I'm currently working on;```
 
-* [kyrpi AI](https://github.com/kyrpi)
+* [kyrpi AI](https://www.kyrpi.com)
+* [hexaky Network](https://www.hexaky.com)
 * [Experimental: Personal Blog](https://www.mehmetemredogan.com.tr)
 
 ### ```> 🤓 I’m currently learning;```
 
 * Devops: Podman and Kubernetes
-* Programming Language: Go and C++
-* Natural Language: English and German
+* Programming Language: Go
+* Natural Language: English
 
 ### ```> 🧰 Others;```
 
@@ -19,15 +22,21 @@ Most of the time I do backend development.
 
 | Programming Language | Level  |
 |----------------------|--------|
-| C, C++               | Intern |
+| C, C++, Rust         | Hobby	|
 | Golang               | Junior |
+| Java				   | Junior |
 | PHP                  | Middle |
 
 | DB         | Level  |
 |------------|--------|
+| ScyllaDB   | Intern |
+| PostgreSQL | Junior |
 | PostgreSQL | Junior |
 | Redis      | Middle |
-| ScyllaDB   | Intern |
+
+| Search Engine	| Level	 |
+|---------------|--------|
+| Meilisearch	| Junior |
 
 ### ```> 🔗 Links;```
 
