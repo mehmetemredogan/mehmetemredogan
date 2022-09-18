@@ -7,7 +7,6 @@ I develop AI (artificial neural networks and natural language processing) projec
 ### ```> 👨‍💻 I'm currently working on;```
 
 * [kyrpi AI](https://www.kyrpi.com)
-* [hexaky Network](https://www.hexaky.com)
 * [Experimental: Personal Blog](https://www.mehmetemredogan.com.tr)
 
 ### ```> 🤓 I’m currently learning;```
